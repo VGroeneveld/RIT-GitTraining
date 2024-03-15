@@ -52,3 +52,9 @@ mice::boys |>
   ggmice::plot_pattern()
 ```
 
+
+![](https://static.vecteezy.com/system/resources/previews/009/886/738/non_2x/cute-cartoon-beer-mug-file-png.png){fig-align="right" width="60%"}
+
+
+
+
